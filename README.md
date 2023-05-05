@@ -1,3 +1,3 @@
-# Calculator_java_awt_
-I have made a simple calculator performing 4 arithmetic operation using java in backend and java awt in frontend.
-You can you jswing for better frontend preformance.
+
+<h4>It is a simple calculator performing 4 arithmetic operation using java awt in frontend.
+</h4>
